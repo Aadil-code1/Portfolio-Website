@@ -22,5 +22,4 @@
 
 
 
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
-If you like it, feel free to ⭐ this repository and share!
+
